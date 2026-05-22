@@ -17,3 +17,11 @@ regulation under different conditions.
 
 ## Author
 Carlos - Biology student learning Python through metabolic modeling
+
+## Current status
+✅ Enzyme 1: Citrate synthase
+✅ Enzyme 2: Aconitase  
+✅ Enzyme 3: Isocitrate dehydrogenase
+✅ Enzyme 4: α-ketoglutarate dehydrogenase
+🔄 Enzyme 5: Succinyl-CoA synthetase (in progress)
+⬜ Enzymes 6-8: Pending
